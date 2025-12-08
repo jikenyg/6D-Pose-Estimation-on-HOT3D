@@ -11,10 +11,11 @@ To download the HOT3D dataset, please click the following link: [HOT3D Dataset](
 
 For the repository to convert it into BOP format, please visit: [this link](https://github.com/facebookresearch/hot3d/tree/main/hot3d)<br>
 
-Finally, please run the distortion-free script in this project:
+Finally, please run the distortion-free script in this project:undistort_script.py
 
 
 # Acknowledgements
 
 Some code is based on MRC-NET. We thank the authors for their contributions!
+
 
